@@ -7,7 +7,7 @@
 
 <img align="right" alt="Coding" width="350" src="https://media.tenor.com/il5brbite04AAAAi/garfield-typing-garfield.gif">
 
-- 🔭 I’m currently working on [a research project.])
+<!-- - 🔭 I’m currently working on [a research project.]-->
 
 - 🌱 I’m currently learning **parallel programming with c and react concepts.**
 
