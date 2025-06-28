@@ -9,7 +9,7 @@
 
 <!-- - 🔭 I’m currently working on [a research project.]-->
 
-- 🌱 I’m currently learning **ReactJS.**
+- 🌱 I’m currently learning **NodeJS.**
 
 - 📫 How to reach me **amrutadahatonde10@gmail.com**
 
