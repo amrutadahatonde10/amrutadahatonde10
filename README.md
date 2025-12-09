@@ -4,7 +4,7 @@
   
 <h1 align="center">Hii👋, I'm Amruta Dahatonde</h1>   
 <h3 align="center">A Frontend developer from India</h3>   
- 
+  
 <img align="right" alt="Coding" width="350" src="https://media.tenor.com/il5brbite04AAAAi/garfield-typing-garfield.gif"> 
 
 <!-- - 🔭 I’m currently working on [a research project.]-->
